@@ -132,10 +132,7 @@ celerybeat.pid
 .venv
 env/
 venv/
-<<<<<<< HEAD
-=======
 venv39/
->>>>>>> 412b9776fd945548b99c196ca5d638336baf8552
 ENV/
 env.bak/
 venv.bak/
